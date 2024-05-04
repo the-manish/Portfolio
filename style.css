@@ -270,6 +270,29 @@ section .title::after {
   background: none;
 }
 
+.btn-color{
+    height: 47px;
+    width: 220px;
+}
+
+.btn-color{
+  height: 100%;
+  width: 50%;
+  border: 2px solid crimson;
+  background: crimson;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.btn-color:hover{
+    color: #f8f5f5;
+    background-color:black;
+}
+
+
 /* Social media section styling */
 .button1 {
   float: left;
