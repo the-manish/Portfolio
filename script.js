@@ -46,7 +46,7 @@ $(document).ready(function () {
     });
   
     var typed = new Typed(".typing2", {
-      strings: ["Programmer","React.js Developer", "Django Developer" ],
+      strings: ["Programmer","Frontend Developer", "Django Developer" ],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
